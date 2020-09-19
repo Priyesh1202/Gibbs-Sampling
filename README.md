@@ -1,5 +1,5 @@
 This is a repo containing the codes that I implement for Gibb's Sampling for n-d dimensions.
-Current Update : Code for Gibb's Sampling for Bayesian Linear Regression is uploaded and code for Gibb's Sampling Polynomail Regreesion is being implemented.
+Current Update : Code for Gibb's Sampling for Bayesian Linear Regression is uploaded and code for Gibb's Sampling Polynomial Regression is being implemented.
 
 1. Bayesian Linear Regression: 
 
